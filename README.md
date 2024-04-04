@@ -4,6 +4,7 @@
 <br/>
 <img align='right' alt='coding' width='400' src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"n>
 
+<br/>
 - 🌱 I’m currently learning **Engineering**
 
 - 👨‍💻 Portfolio_web [https://harsh-a-parihar.github.io/personal_web/](https://harsh-a-parihar.github.io/personal_web/)
@@ -35,7 +36,7 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Back-end:</h3>
+<h3 align="left">Back-end and Database:</h3>
 <p align="left">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
