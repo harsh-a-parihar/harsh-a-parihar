@@ -1,14 +1,16 @@
 ![everything](https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1292540/retina_1708x683_cover-default-cover-9-e9e2a4e027551681be020a158ca8db2c.png)
 <h1 align="center">I'm Harsh</h1>
-<h3 align="center">Student. Programmer. </h3>
+<h3 align="center">Student & Programmer. </h3>
 <br/>
-<img align='right' alt='coding' width='400' src="https://i.gifer.com/NxfN.gif"n>
-![H in c code.](assets/h_3d.gif)
-
+<img align='right' alt='3d H' width='400' src="assets/h_3d.gif"n>
 <br/>
-- 🌱 I’m currently learning __Engineering__
+<p align="left" >
+I am a student and computer programmer (which means I like to program and build solutions).
+<br/>
+I learn and apply principles of Computer Engineering, Science, & Mathematics to my projects and work.
+</p>
 
-- 📫 Mail:  **hp.cont.me@gmail.com**
+📫 Email:  **hp.cont.me@gmail.com**
 
 <h3 align="left">Connect:</h3>
 <p align="left">
