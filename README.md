@@ -3,6 +3,7 @@
 <h3 align="center">Student. Programmer. </h3>
 <br/>
 <img align='right' alt='coding' width='400' src="https://i.gifer.com/NxfN.gif"n>
+![Spinning H](3d_H.gif)
 
 <br/>
 - 🌱 I’m currently learning __Engineering__
