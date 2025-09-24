@@ -2,8 +2,6 @@
 
 ![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
-<br/>
-
 ## Facts.
 
 <img align="right" src="assets/h_3d.gif" width="300" height="325" alt="pic" style="border: 2px solid white; opacity: 0.9;" />
@@ -19,9 +17,10 @@
 - I colloborate on, high-impact projects and contract work.
 - For detailed info visit my [website.](harshparihar.me)
 - For collaboration or work <a href="mailto:hp.cont.me@gmail.com" target="_blank">send a mail.</a>
+- That is spinning 'H' written in C, just like spinning donut. --->
 
 ```
-That is spinning 'H' written in C, just like spinning donut. ------> 
+That is spinning 'H' written in C, just like spinning donut. ---> 
 ```
 
 <br/>
@@ -90,8 +89,8 @@ That is spinning 'H' written in C, just like spinning donut. ------>
 ## Stats.
 
 ![Github Strek](https://github-readme-streak-stats-salesp07.vercel.app/?user=harsh-a-parihar&count_private=true&theme=dark&card_width=495)<br/>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=harsh-a-parihar&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-a-parihar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_height=350)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=harsh-a-parihar&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-a-parihar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_height=400)
 
 
 
