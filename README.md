@@ -6,7 +6,7 @@
 
 ## Facts.
 
-<img align="right" src="assets/h_3d.gif" width="260" height="320" alt="pic" style="border: 2px solid white; opacity: 0.9;" />
+<img align="right" src="assets/h_3d.gif" width="300" height="325" alt="pic" style="border: 2px solid white; opacity: 0.9;" />
 
 - I’m a Software Developer and an undergrad at IITM, India.
 - My work spans accross following domains: 
@@ -89,10 +89,10 @@ That is spinning 'H' written in C, just like spinning donut. ------>
 
 ## Stats.
 
-![Github Strek](https://github-readme-streak-stats-salesp07.vercel.app/?user=harsh-a-parihar&count_private=true&theme=dark&card_width=495)
-![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-a-parihar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_height=300)<br/>
+![Github Strek](https://github-readme-streak-stats-salesp07.vercel.app/?user=harsh-a-parihar&count_private=true&theme=dark&card_width=495)<br/>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=harsh-a-parihar&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=harsh-a-parihar&theme=dark&hide_border=false)
+![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-a-parihar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_height=350)
+
 
 
 
