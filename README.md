@@ -19,10 +19,6 @@
 - For collaboration or work <a href="mailto:hp.cont.me@gmail.com" target="_blank">send a mail.</a>
 - That is spinning 'H' written in C, just like spinning donut. --->
 
-```
-That is spinning 'H' written in C, just like spinning donut. ---> 
-```
-
 <br/>
 
 ## Connect.
