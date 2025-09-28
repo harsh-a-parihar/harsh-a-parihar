@@ -7,17 +7,17 @@
 <img align="right" src="assets/h_3d.gif" width="290" height="320" alt="pic" style="border: 3px solid white; opacity: 0.9;" />
 
 - I’m a Software Developer and an undergrad at IITM, India.
-- My work spans accross following domains: 
+- My work spans the following domains: 
     - Application(web & app) dev
     - Data Science & AI
     - Blockchain
     - Algorithms
     - Systems & security
     - Open-source contribution
-- I colloborate on, high-impact projects and contract work.
-- For detailed info visit my [website.](harshparihar.me)
+- I collaborate on high-impact projects and contract work.
+- For detailed info, visit my [website.](harshparihar.me)
 - For collaboration or work <a href="mailto:hp.cont.me@gmail.com" target="_blank">send a mail.</a>
-- That is spinning 'H' written in C, just like spinning donut.    ---->
+- That is spinning 'H' written in C, just like a spinning donut.    ---->
 
 <br/>
 
