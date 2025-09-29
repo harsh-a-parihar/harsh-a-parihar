@@ -15,7 +15,7 @@
     - Systems & security
     - Open-source contribution
 - I collaborate on high-impact projects and contract work.
-- For detailed info, visit my [website.](harshparihar.me)
+- For detailed info, visit my [website](harshparihar.me)
 - For collaboration or work <a href="mailto:hp.cont.me@gmail.com" target="_blank">send a mail.</a>
 - That is spinning 'H' written in C, just like a spinning donut.    ---->
 
